@@ -1,0 +1,5 @@
+C:\Users\Xaviesta\Desktop\github\CSharpBasics\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+C:\Users\Xaviesta\Desktop\github\CSharpBasics\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+C:\Users\Xaviesta\Desktop\github\CSharpBasics\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csprojResolveAssemblyReference.cache
+C:\Users\Xaviesta\Desktop\github\CSharpBasics\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+C:\Users\Xaviesta\Desktop\github\CSharpBasics\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb
