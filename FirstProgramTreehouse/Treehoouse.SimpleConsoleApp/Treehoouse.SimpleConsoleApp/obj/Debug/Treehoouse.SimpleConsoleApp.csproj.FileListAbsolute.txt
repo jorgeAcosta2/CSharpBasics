@@ -1,1 +1,6 @@
 C:\Users\Xaviesta\Desktop\github\CSharpBasics\FirstProgramTreehouse\Treehoouse.SimpleConsoleApp\Treehoouse.SimpleConsoleApp\bin\Debug\Treehoouse.SimpleConsoleApp.exe.config
+C:\Users\Xaviesta\Desktop\github\CSharpBasics\FirstProgramTreehouse\Treehoouse.SimpleConsoleApp\Treehoouse.SimpleConsoleApp\bin\Debug\Treehoouse.SimpleConsoleApp.exe
+C:\Users\Xaviesta\Desktop\github\CSharpBasics\FirstProgramTreehouse\Treehoouse.SimpleConsoleApp\Treehoouse.SimpleConsoleApp\bin\Debug\Treehoouse.SimpleConsoleApp.pdb
+C:\Users\Xaviesta\Desktop\github\CSharpBasics\FirstProgramTreehouse\Treehoouse.SimpleConsoleApp\Treehoouse.SimpleConsoleApp\obj\Debug\Treehoouse.SimpleConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Xaviesta\Desktop\github\CSharpBasics\FirstProgramTreehouse\Treehoouse.SimpleConsoleApp\Treehoouse.SimpleConsoleApp\obj\Debug\Treehoouse.SimpleConsoleApp.exe
+C:\Users\Xaviesta\Desktop\github\CSharpBasics\FirstProgramTreehouse\Treehoouse.SimpleConsoleApp\Treehoouse.SimpleConsoleApp\obj\Debug\Treehoouse.SimpleConsoleApp.pdb
