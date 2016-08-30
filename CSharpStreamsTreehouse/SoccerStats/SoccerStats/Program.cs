@@ -14,8 +14,7 @@ namespace SoccerStats
             string currentDirectory = Directory.GetCurrentDirectory();
             DirectoryInfo directory = new DirectoryInfo(currentDirectory);
             var fileName = Path.Combine(directory.FullName, "SoccerGameResults.csv");
-            var fileContents = ReadFile(fileName);
-            Console.WriteLine(fileContents);
+            var fileContents = ReadSoccerResults(fileName);
         }
 
         public static string ReadFile(string fileName)
@@ -25,6 +24,29 @@ namespace SoccerStats
                 return reader.ReadToEnd();
             }
 
+        }
+
+        public static IList<string[]> ReadSoccerResults(string fileName)
+        {
+            var soccerResults = new List<string[]>();
+            using (var reader = new StreamReader(fileName))
+            {
+                reader.ReadLine();
+                string line = "";
+                while ((line = reader.ReadLine()) != null)
+                {
+                    var gameResult = new GameResult();
+                    string[] values = reader.ReadLine().Split(',');
+                    DateTime gameDate;
+                    if (DateTime.TryParse(values[0], out gameDate))
+                    {
+                        gameResult.GameDate = gameDate;
+                    }
+                    soccerResults.Add(values);
+                }
+            }
+
+                return soccerResults;
         }
     }
 }
